@@ -1,2 +1,3 @@
-# geojson
-test
+function(){
+  alert(0);
+}
